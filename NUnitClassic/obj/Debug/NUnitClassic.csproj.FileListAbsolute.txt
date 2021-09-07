@@ -1,0 +1,9 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\NUnitClassic\bin\Debug\NUnitClassic.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\NUnitClassic\bin\Debug\NUnitClassic.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\NUnitClassic\bin\Debug\nunit.framework.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\NUnitClassic\bin\Debug\nunit.framework.xml
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\NUnitClassic\obj\Debug\NUnitClassic.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\NUnitClassic\obj\Debug\NUnitClassic.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\NUnitClassic\obj\Debug\NUnitClassic.csproj.CopyComplete
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\NUnitClassic\obj\Debug\NUnitClassic.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\NUnitClassic\obj\Debug\NUnitClassic.pdb

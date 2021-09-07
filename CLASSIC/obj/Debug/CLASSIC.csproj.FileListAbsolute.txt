@@ -1,0 +1,5 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\CLASSIC\bin\Debug\CLASSIC.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\CLASSIC\bin\Debug\CLASSIC.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\CLASSIC\obj\Debug\CLASSIC.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\CLASSIC\obj\Debug\CLASSIC.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\CLASSIC\obj\Debug\CLASSIC.pdb

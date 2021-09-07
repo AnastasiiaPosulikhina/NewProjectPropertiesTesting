@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VlvYCdKSTDEJ7wdEkxO6MelSGZlSJXelH0g3gptfEROz8IBThLh1cAa1j1Eez8XYpaNM8TRM0e348FZBnK7WyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\NewProjectPropertiesSectionsTesting\\XamarinFormsLibrary1\\XamarinFormsLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

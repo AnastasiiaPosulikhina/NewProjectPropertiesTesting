@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zELOAV06ry8R1NLCk99WFNMqTu5mi8M8fGBrbncvvZFKlKaVOnkpfsKLWpTwsRkmMM5QnHSYrXbEpRpie37WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anastasiia.Posulikhi\\RiderProjects\\NewProjectPropertiesSectionsTesting\\MultiTargetProj2\\MultiTargetProj2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anastasiia.Posulikhi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\bin\Debug\net6.0\SimpleConsoleApp.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\bin\Debug\net6.0\SimpleConsoleApp.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\bin\Debug\net6.0\SimpleConsoleApp.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\bin\Debug\net6.0\SimpleConsoleApp.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\bin\Debug\net6.0\ref\SimpleConsoleApp.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\bin\Debug\net6.0\SimpleConsoleApp.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\obj\Debug\net6.0\ref\SimpleConsoleApp.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\SimpleConsoleApp\obj\Debug\net6.0\SimpleConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\bin\Debug\net6.0\ConsoleAppNet6.exe
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\bin\Debug\net6.0\ConsoleAppNet6.deps.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\bin\Debug\net6.0\ConsoleAppNet6.runtimeconfig.json
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\bin\Debug\net6.0\ConsoleAppNet6.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\bin\Debug\net6.0\ref\ConsoleAppNet6.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\bin\Debug\net6.0\ConsoleAppNet6.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\obj\Debug\net6.0\ConsoleAppNet6.csproj.AssemblyReference.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\obj\Debug\net6.0\ConsoleAppNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\obj\Debug\net6.0\ConsoleAppNet6.AssemblyInfoInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\obj\Debug\net6.0\ConsoleAppNet6.AssemblyInfo.cs
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\obj\Debug\net6.0\ConsoleAppNet6.csproj.CoreCompileInputs.cache
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\obj\Debug\net6.0\ConsoleAppNet6.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\obj\Debug\net6.0\ref\ConsoleAppNet6.dll
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\obj\Debug\net6.0\ConsoleAppNet6.pdb
+C:\Users\Anastasiia.Posulikhi\RiderProjects\NewProjectPropertiesSectionsTesting\ConsoleAppNet6\obj\Debug\net6.0\ConsoleAppNet6.genruntimeconfig.cache
